@@ -3,7 +3,7 @@ from streamlit_agraph import agraph, Node, Edge, Config
 import streamlit as st
 import pandas as pd
 import numpy as np
-import snowflake.connector
+# import snowflake.connector
 import streamlit_option_menu
 from streamlit_option_menu import option_menu
 from scarper import scarper_tools
